@@ -1,6 +1,7 @@
 {
   "name": "appsync-graphql",
   "version": "0.1.0",
+  "license": "UNLICENSED",
   "bin": {
     "appsync-graphql": "bin/appsync-graphql.js"
   },
